@@ -37,7 +37,7 @@ Description: Equal parts espresso, steamed milk, and milk foam
 Description: Flaky and buttery pastries
 
 ##### About the Authors
-<img src="yuan.jpg" alt="My Name" width="150" style="border-radius: 50%;">
+<img src="https://avatars.githubusercontent.com/u/156741824?v=4" alt="My Name" width="150" style="border-radius: 50%;">
 
 **Name:** Yuan Nico Lazarte
 
@@ -45,3 +45,4 @@ Description: Flaky and buttery pastries
 
 [![Facebook](facebook.png)](https://www.facebook.com/yuan.ismooooy)
 [![GitHub](github-sign.png)](https://github.com/yuannicolazarte)
+
