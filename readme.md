@@ -18,13 +18,13 @@ Welcome to Cozy Cup Cafe, where warmth, comfort, and exceptional coffee come tog
 **Contact**
 - in this feature, you can get in touch with us. it is the direct gateway to connect with our team
 
-#### Screen Captures
+### Screen Captures
 
-# Image 1 
+### Image 1 
 ! [Image 1](espresso.jpg)
 Description: Strong and concentrated coffee
 
-## Image 2
+### Image 2
 ! [Image 2](latte.jpg)
 Description: Espresso with steamed milk
 
@@ -36,8 +36,8 @@ Description: Equal parts espresso, steamed milk, and milk foam
 ! [Image 4](croissants.jpg)
 Description: Flaky and buttery pastries
 
-##### About the Authors
-<img src="https://avatars.githubusercontent.com/u/156741824?v=4" alt="My Name" width="150" style="border-radius: 50%;">
+### About the Authors
+<img src='https://avatars.githubusercontent.com/u/156741824?v=4' style="width: 150px; border-radius: 50%;">
 
 **Name:** Yuan Nico Lazarte
 
